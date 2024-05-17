@@ -8,6 +8,4 @@
 
 2. ### Technologies used:
 
-   HTML
-   CSS
-   JavaScript
+   HTML, CSS, JavaScript
